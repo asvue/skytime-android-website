@@ -1,0 +1,398 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "dmca": "DMCA",
+    "creator": "Creator"
+  },
+  "language": {
+    "label": "Language",
+    "options": {
+      "en": "English",
+      "zh": "中文",
+      "id": "Bahasa Indonesia",
+      "ja": "日本語",
+      "ko": "한국어"
+    }
+  },
+  "header": {
+    "tagline": "Quick, Reel, Short Drama"
+  },
+  "home": {
+    "heroTitle": "Binge Premium Short Dramas Anytime, Anywhere",
+    "heroDescription": "Stream cinematic mini-episodes tailored to every mood. Get hooked by a one-minute opener and stay for the twists, all on your schedule.",
+    "heroButton": "Get Started",
+    "heroCount": "Tens of thousands of drama fans",
+    "heroLabel": "discover new stories every day",
+    "trendingTitle": "Stay on Top of Trending Shorts",
+    "trendingDescription": "Our editors refresh the lineup daily—open the app and you’ll find a new batch of buzzworthy short dramas ready to binge.",
+    "whyTitle": "Why Viewers Choose SkyBox",
+    "featureCuratedTitle": "Curated Library",
+    "featureCuratedDesc": "From revenge thrillers to heartwarming rom-coms, every collection is handpicked so you never scroll without finding a hit.",
+    "featurePlaybackTitle": "Fluid HD Playback",
+    "featurePlaybackDesc": "Adaptive streaming keeps visuals crisp and motion smooth, even on spotty mobile networks.",
+    "featureDiscoveryTitle": "Adaptive Discovery",
+    "featureDiscoveryDesc": "Our engine learns what you pause, like, and finish—serving up short dramas that match your taste in real time.",
+    "freeTitle": "Watch Free, Watch Limitless",
+    "freeDescription": "Every episode is unlocked—no paywalls, no surprise fees, just uninterrupted storytelling.",
+    "testimonialTitle": "What Our Users Say",
+    "testimonials": {
+      "emma": "“I’m a huge fan of short dramas, and SkyBox always has something fresh. It’s my go-to platform now.”",
+      "ramuel": "“There are so many shows and new ones every day. After work I watch a few episodes to relax—totally addictive!”",
+      "wizzard": "“Video quality beats every other app I tried. Even with mid-tier Wi-Fi the playback stays smooth.”",
+      "queenita": "“Recommendations feel personalized. Every time I open SkyBox I discover a new gem that fits my taste.”",
+      "liam": "“Updates are lightning fast. I get to watch the latest hits the moment they drop.”"
+    },
+    "brandSubtitle": "SkyBox - Quick, Reel, Short Drama"
+  },
+  "aboutPage": {
+    "title": "About SkyBox",
+    "intro": "SkyBox is built for short-drama lovers worldwide. We combine premium storytelling with a frictionless viewing experience so you can finish a season during a commute or coffee break.",
+    "missionTitle": "Our Mission",
+    "missionBody": "Deliver premium, diverse short dramas to every viewer, everywhere, and make screen time feel purposeful, inspiring, and fun.",
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "title": "Innovation",
+        "body": "We experiment boldly to reimagine how short stories are created and enjoyed."
+      },
+      {
+        "title": "Quality",
+        "body": "Every title passes strict cinematic and storytelling reviews before it reaches you."
+      },
+      {
+        "title": "Audience First",
+        "body": "Feedback loops power every product decision, ensuring SkyBox evolves with our viewers."
+      }
+    ],
+    "contactTitle": "Contact Us",
+    "contactBody": "Have questions or want to partner with us? Reach out anytime.",
+    "contactEmail": "Email: contact@skytime.life",
+    "contactMcn": "MCN partners: mcn@skytime.life",
+    "contactBiz": "Business: bd@skytime.life",
+    "contactAddress": "Address: Shenzhen Jiatuning Building Materials Co., Ltd."
+  },
+  "creator": {
+    "badge": "Creator Service Hub",
+    "title": "Join SkyBox Creators",
+    "subtitle": "Unlock analytics, content insights, and monetization tools made for short dramas.",
+    "panelLogin": "Email Login",
+    "panelReset": "Reset Password",
+    "toggleForgot": "Forgot password?",
+    "toggleBack": "Back to login",
+    "emailPlaceholder": "Email address",
+    "passwordPlaceholder": "Password",
+    "remember": "Remember me",
+    "helper": "We’ll send reset instructions to your inbox.",
+    "login": "Sign In",
+    "send": "Send",
+    "unavailable": "This account is not eligible yet. Please contact our agency partners."
+  },
+  "dmcaPage": {
+    "heroEyebrow": "SkyBox DMCA Help Center",
+    "heroTitle": "Understand the Safe Harbor principle and DMCA workflow to protect your IP",
+    "heroDescription": "We help rights holders submit notices quickly, monitor processing status, and access FAQs covering every step.",
+    "ctaSubmit": "Submit Notice",
+    "ctaLearn": "Learn More",
+    "helpTitle": "How We Can Help",
+    "helpDescription": "Everything you need to understand Safe Harbor, file a notice, and navigate the process smoothly.",
+    "helpCards": [
+      {
+        "tag": "Safe Harbor",
+        "title": "What Is Safe Harbor?",
+        "description": "Learn how service providers stay compliant while removing infringing content promptly.",
+        "cta": "Read Guide",
+        "link": "/dmca/learn"
+      },
+      {
+        "tag": "Submit",
+        "title": "How to File a DMCA Notice",
+        "description": "Step-by-step checklist plus required materials to ensure a valid submission.",
+        "cta": "Start Now",
+        "link": "/dmca/submit"
+      },
+      {
+        "tag": "FAQ",
+        "title": "Common Questions",
+        "description": "Timelines, counter notifications, evidence requirements, and more.",
+        "cta": "View FAQ",
+        "link": "/dmca/learn"
+      }
+    ],
+    "processTitle": "DMCA Notice Flow",
+    "processDescription": "Understand the four stages so you always know what happens next.",
+    "processSteps": [
+      {
+        "title": "Verify Ownership",
+        "body": "Confirm you own or represent the copyrighted work and gather supporting files."
+      },
+      {
+        "title": "Complete the Form",
+        "body": "Provide URLs, descriptions, and contact info so our team can validate quickly."
+      },
+      {
+        "title": "Submit & Review",
+        "body": "We assess every request within 1–3 business days and may reach out for clarification."
+      },
+      {
+        "title": "Result & Action",
+        "body": "You’ll receive an email update as soon as removal, restriction, or further steps are applied."
+      }
+    ],
+    "faqTitle": "Frequently Asked Questions",
+    "faqDescription": "Answers to the most common DMCA, safe harbor, and counter notice questions.",
+    "faqs": [
+      {
+        "question": "What information is required for a DMCA notice?",
+        "answer": "Provide the work description, original and infringing URLs, contact email, and a good-faith statement."
+      },
+      {
+        "question": "How long does the process take?",
+        "answer": "We aim to respond within 1–3 business days and will email you if more details are needed."
+      },
+      {
+        "question": "When does Safe Harbor apply?",
+        "answer": "When a platform isn’t directly involved in infringement and removes content promptly after a valid notice."
+      },
+      {
+        "question": "Can I send a counter notice?",
+        "answer": "Yes. If you believe your content was removed by mistake, submit a counter notice with supporting reasoning."
+      }
+    ],
+    "ctaTitle": "Need more help?",
+    "ctaDescription": "Our copyright specialists are ready to assist via email or through your agency contacts.",
+    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaFooter": "Contact Copyright Team",
+    "ctaLibrary": "View Copyright Library"
+  },
+  "dmcaLearn": {
+    "headerBrand": "SkyBox Help Center",
+    "headerNav": ["Policy & Copyright", "DMCA"],
+    "breadcrumb": "Help Center / Policy & Copyright / DMCA",
+    "heroEyebrow": "What is the DMCA?",
+    "heroTitle": "DMCA Protects Both Platforms and Creators",
+    "heroIntro": "The 1998 Digital Millennium Copyright Act (DMCA) establishes safe-harbor rules that keep online services open while providing creators with a fast path to remove infringing content.",
+    "sideArticlesTitle": "In this section",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "DMCA Overview",
+        "body": [
+          "DMCA limits a service provider’s direct liability for user-uploaded content while requiring takedown of infringing material after a valid notice.",
+          "Publishing a contact channel, keeping records, and offering counter-notice paths help platforms retain Safe Harbor protection."
+        ],
+        "list": [
+          "Notice-and-takedown: remove content quickly after valid notice",
+          "Counter-notice: allow alleged infringers to appeal",
+          "Repeat infringer policy: warn, restrict, or terminate offenders"
+        ]
+      },
+      {
+        "id": "obligations",
+        "title": "Service Provider Duties",
+        "body": [
+          "Platforms should respond promptly, keep logs, and maintain reporting and counter-notice channels while avoiding policies that encourage infringement.",
+          "SkyBox’s flow covers intake, verification, moderation, and transparent communication with both sides."
+        ],
+        "list": [
+          "Publish DMCA contact and privacy practices",
+          "Validate notices to prevent abuse",
+          "Provide traceable forms and timelines for counter notices"
+        ]
+      },
+      {
+        "id": "creators",
+        "title": "Why It Matters to Creators",
+        "body": [
+          "DMCA lets creators request removals without filing lawsuits—just submit a description, links, and a sworn statement.",
+          "If content is removed in error, creators can file a counter notice and request restoration."
+        ],
+        "list": [
+          "Standard forms make takedowns straightforward",
+          "Counter notices reverse mistaken removals",
+          "Respecting others’ rights prevents repeat-infringer strikes"
+        ]
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqs": [
+      {
+        "title": "What materials do I need?",
+        "answer": "Prepare a description of the work, proof of ownership, original and infringing URLs, and a good-faith statement."
+      },
+      {
+        "title": "How quickly do you respond?",
+        "answer": "Expect an initial update in 1–3 business days. We’ll email you if we need more details."
+      },
+      {
+        "title": "How do counter notices work?",
+        "answer": "If your content was removed incorrectly, submit a counter notice explaining why it is lawful. We review and restore when appropriate."
+      },
+      {
+        "title": "What happens to repeat infringers?",
+        "answer": "Accounts that repeatedly violate valid notices may face restrictions or termination to protect the community."
+      }
+    ],
+    "relatedTitle": "Further Reading",
+    "relatedSubmit": "How to submit a DMCA takedown",
+    "relatedHub": "Visit the SkyBox DMCA Hub"
+  },
+  "dmcaSubmit": {
+    "heroEyebrow": "Submit a DMCA Notice",
+    "heroTitle": "Report unauthorized use of your copyrighted work",
+    "heroDesc": "Before you begin, make sure you are the rights holder or authorized agent and that the information you provide is accurate.",
+    "notices": [
+      "Submitting a false notice may result in legal liability.",
+      "Provide detailed URLs so we can locate the material quickly.",
+      "Submitting confirms you accept our Terms of Service and Privacy Policy."
+    ],
+    "ownerSection": "Copyright Owner Information",
+    "workSection": "Protected Work Details",
+    "infringeSection": "Infringing Material",
+    "statementSection": "Declarations",
+    "signatureSection": "Digital Signature",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your legal name",
+    "email": "Email",
+    "emailPlaceholder": "We'll contact you through this email",
+    "organization": "Company / Organization (optional)",
+    "organizationPlaceholder": "Optional if you represent a company or agency",
+    "role": "Your Role",
+    "rolePlaceholder": "Select your role",
+    "ownerRole": "I am the copyright owner",
+    "agentRole": "I am an authorized agent",
+    "otherRole": "Other",
+    "workType": "Work Type",
+    "workTypePlaceholder": "Select work type",
+    "workTypes": [
+      { "value": "video", "label": "Video / Film" },
+      { "value": "text", "label": "Text / Script" },
+      { "value": "image", "label": "Image / Illustration" },
+      { "value": "audio", "label": "Audio / Score" },
+      { "value": "other", "label": "Other" }
+    ],
+    "workDescription": "Work Description",
+    "workDescriptionPlaceholder": "Describe the copyrighted work in detail",
+    "originalUrl": "Original Work URL",
+    "infringingUrl": "Infringing URL(s)",
+    "infringingPlaceholder": "Paste one infringing URL per line",
+    "statements": [
+      {
+        "key": "goodFaith",
+        "label": "I have a good-faith belief the disputed use is not authorized by the copyright owner, its agent, or the law."
+      },
+      {
+        "key": "perjury",
+        "label": "I declare under penalty of perjury that the information in this notice is accurate and I am authorized to act."
+      },
+      {
+        "key": "privacy",
+        "label": "I consent to SkyBox processing my personal data to handle this DMCA notice."
+      }
+    ],
+    "signaturePlaceholder": "Must match the name above",
+    "formDisclaimer": "By submitting this form you confirm you have read and agree to our Terms of Service and Privacy Policy.",
+    "submit": "Submit Notice",
+    "success": "We received your notice and will follow up via email."
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: 27 Sep 2025",
+    "sections": [
+      {
+        "title": "Who Controls Your Data",
+        "body": "SkyBox PTE. LTD. operates all websites, applications, and services covered by this policy."
+      },
+      {
+        "title": "Information We Collect",
+        "body": "Account, payment, usage, device, and support information depending on how you interact with SkyBox."
+      },
+      {
+        "title": "How We Use Information",
+        "body": "To deliver, personalize, secure, and improve the service, process payments, and send transaction or marketing messages."
+      },
+      {
+        "title": "Sharing & Disclosure",
+        "body": "We do not sell personal data. We share it only with trusted processors, to meet legal obligations, or to protect users and SkyBox."
+      },
+      {
+        "title": "Retention & Security",
+        "body": "Data is kept only as long as needed for the stated purposes. We employ encryption, access controls, and monitoring."
+      },
+      {
+        "title": "Your Rights",
+        "body": "Access, update, delete, restrict, or object to processing, and opt out of marketing. Contact us to exercise these rights."
+      },
+      {
+        "title": "International Transfers",
+        "body": "Data may be processed in countries with different laws. We rely on contractual safeguards and encryption."
+      },
+      {
+        "title": "Policy Updates",
+        "body": "We will notify you of material changes via email or in-app notices. Continued use constitutes acceptance."
+      },
+      {
+        "title": "Contact",
+        "body": "Questions? Email privacy@skytime.life."
+      }
+    ]
+  },
+  "userAgreement": {
+    "title": "User Agreement",
+    "updated": "Last updated: 27 Sep 2025",
+    "sections": [
+      {
+        "title": "Acceptance of Terms",
+        "body": "Using SkyBox means you agree to this agreement and any future updates. If you disagree, stop using the service."
+      },
+      {
+        "title": "Eligibility & Accounts",
+        "body": "You must be 13+, provide accurate information, and safeguard your credentials. Notify us of any unauthorized use."
+      },
+      {
+        "title": "License & Platform Use",
+        "body": "SkyBox grants a limited license for access and personal use. Reverse engineering, scraping, or reselling content is prohibited."
+      },
+      {
+        "title": "User Content",
+        "body": "You own your uploads but license SkyBox to host and display them. Ensure your content is lawful and non-infringing."
+      },
+      {
+        "title": "Payments & Virtual Items",
+        "body": "Purchases are final unless required by law. SkyBox may modify pricing or discontinue paid features."
+      },
+      {
+        "title": "Service Changes & Termination",
+        "body": "We may update, suspend, or end services. We can close accounts that violate policies or harm others."
+      },
+      {
+        "title": "Disclaimers & Liability",
+        "body": "SkyBox is provided “as is.” We are not liable for indirect or incidental damages. Our total liability is limited to six months of fees paid."
+      },
+      {
+        "title": "Indemnity",
+        "body": "You agree to indemnify SkyBox against claims arising from your content or violation of these terms."
+      },
+      {
+        "title": "Governing Law & Disputes",
+        "body": "This agreement is governed by Singapore law. Disputes will be resolved by binding arbitration at SIAC."
+      },
+      {
+        "title": "Contact",
+        "body": "Email contact@skytime.life for any questions about this agreement."
+      }
+    ]
+  },
+  "footer": {
+    "brandLine": "SkyBox - Quick, Reel, Short Drama",
+    "aboutTitle": "About us",
+    "aboutLink": "About SkyBox",
+    "legalTitle": "Legal",
+    "userAgreement": "User Agreement",
+    "privacyPolicy": "Privacy Policy",
+    "creatorTitle": "Creators",
+    "creatorLogin": "Creator Login",
+    "copyright": "Copyright © 2025 SkyBox. All rights reserved."
+  }
+}
+

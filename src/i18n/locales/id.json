@@ -1,0 +1,402 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "dmca": "DMCA",
+    "creator": "Kreator"
+  },
+  "language": {
+    "label": "Bahasa",
+    "options": {
+      "en": "English",
+      "zh": "中文",
+      "id": "Bahasa Indonesia",
+      "ja": "日本語",
+      "ko": "한국어"
+    }
+  },
+  "header": {
+    "tagline": "Quick, Reel, Short Drama"
+  },
+  "home": {
+    "heroTitle": "Nikmati drama pendek premium kapan pun dan di mana pun",
+    "heroDescription": "Episode sinematik berdurasi singkat untuk setiap suasana hati. Mulai dari menit pertama sampai plot twist berikutnya—semua sesuai waktu Anda.",
+    "heroButton": "Mulai sekarang",
+    "heroCount": "Puluhan ribu penggemar drama pendek",
+    "heroLabel": "menemukan konten baru setiap hari",
+    "trendingTitle": "Selalu tahu drama terpopuler",
+    "trendingDescription": "Tim editor kami memperbarui daftar tiap hari, jadi setiap kali membuka SkyBox Anda akan melihat drama terbaru yang sedang ramai dibicarakan.",
+    "whyTitle": "Mengapa penonton memilih SkyBox",
+    "featureCuratedTitle": "Perpustakaan terkurasi",
+    "featureCuratedDesc": "Dari thriller balas dendam hingga romansa hangat—semua koleksi dipilih manual agar Anda tidak perlu scroll lama.",
+    "featurePlaybackTitle": "Pemutaran HD mulus",
+    "featurePlaybackDesc": "Streaming adaptif menjaga gambar tetap tajam dan gerakan halus meski jaringan tidak stabil.",
+    "featureDiscoveryTitle": "Rekomendasi adaptif",
+    "featureDiscoveryDesc": "Mesin kami mempelajari apa yang Anda jeda, sukai, dan tonton sampai habis untuk menghadirkan drama yang paling sesuai.",
+    "freeTitle": "Gratis dan tanpa batas",
+    "freeDescription": "Semua episode telah terbuka—tanpa paywall ataupun biaya tersembunyi.",
+    "testimonialTitle": "Kata pengguna kami",
+    "testimonials": {
+      "emma": "“Saya pecinta drama pendek dan SkyBox selalu punya judul baru. Sekarang ini aplikasi wajib saya.”",
+      "ramuel": "“Setelah kerja saya nonton beberapa episode untuk santai—koleksinya banyak dan bikin ketagihan.”",
+      "wizzard": "“Kualitas video jauh lebih baik dibanding aplikasi lain. Dengan Wi-Fi biasa pun tetap lancar.”",
+      "queenita": "“Rekomendasinya terasa personal. Tiap buka aplikasi selalu ada permata baru yang cocok dengan selera saya.”",
+      "liam": "“Update-nya super cepat, saya bisa menonton judul terpanas begitu tayang.”"
+    },
+    "brandSubtitle": "SkyBox - Quick, Reel, Short Drama"
+  },
+  "aboutPage": {
+    "title": "Tentang SkyBox",
+    "intro": "SkyBox menghadirkan pengalaman drama pendek premium bagi penonton di seluruh dunia, sempurna untuk dinikmati di sela-sela waktu.",
+    "missionTitle": "Misi kami",
+    "missionBody": "Mendistribusikan drama pendek berkualitas tinggi agar hiburan selalu terasa menarik dan mudah dijangkau.",
+    "valuesTitle": "Nilai utama",
+    "values": [
+      {
+        "title": "Inovasi",
+        "body": "Kami bereksperimen untuk mendefinisikan ulang cara drama pendek dibuat dan dinikmati."
+      },
+      {
+        "title": "Kualitas",
+        "body": "Setiap judul melewati proses kurasi dan peninjauan sinematik yang ketat."
+      },
+      {
+        "title": "Berbasis pengguna",
+        "body": "Umpan balik komunitas mendorong setiap iterasi produk dan konten."
+      }
+    ],
+    "contactTitle": "Hubungi kami",
+    "contactBody": "Ingin bermitra atau punya pertanyaan? Kirim pesan kapan saja.",
+    "contactEmail": "Email: contact@skytime.life",
+    "contactMcn": "MCN: mcn@skytime.life",
+    "contactBiz": "Bisnis: bd@skytime.life",
+    "contactAddress": "Alamat: Shenzhen Jiatuning Building Materials Co., Ltd."
+  },
+  "creator": {
+    "badge": "Pusat Layanan Kreator",
+    "title": "Bergabung dengan kreator SkyBox",
+    "subtitle": "Aktifkan analitik, insight konten, dan alat monetisasi khusus drama pendek.",
+    "panelLogin": "Login email",
+    "panelReset": "Atur ulang sandi",
+    "toggleForgot": "Lupa sandi?",
+    "toggleBack": "Kembali ke login",
+    "emailPlaceholder": "Alamat email",
+    "passwordPlaceholder": "Kata sandi",
+    "remember": "Ingat saya",
+    "helper": "Kami akan mengirim instruksi reset ke email Anda.",
+    "login": "Masuk",
+    "send": "Kirim",
+    "unavailable": "Akun ini belum memenuhi syarat. Silakan hubungi mitra agensi kami."
+  },
+  "dmcaPage": {
+    "heroEyebrow": "Pusat Bantuan DMCA SkyBox",
+    "heroTitle": "Pahami prinsip Safe Harbor dan alur DMCA untuk menjaga hak cipta Anda",
+    "heroDescription": "SkyBox menyediakan jalur pelaporan, pelacakan progres, dan FAQ lengkap untuk setiap tahap.",
+    "ctaSubmit": "Kirim laporan",
+    "ctaLearn": "Pelajari",
+    "helpTitle": "Bagaimana kami membantu",
+    "helpDescription": "Pelajari Safe Harbor, langkah pengajuan, dan FAQ agar proses klaim berjalan lancar.",
+    "helpCards": [
+      {
+        "tag": "Safe Harbor",
+        "title": "Apa itu Safe Harbor?",
+        "description": "Pelajari cara platform patuh sambil cepat menghapus konten bermasalah.",
+        "cta": "Baca panduan",
+        "link": "/dmca/learn"
+      },
+      {
+        "tag": "Pengajuan",
+        "title": "Cara mengirim DMCA",
+        "description": "Checklist langkah dan dokumen agar laporan Anda valid.",
+        "cta": "Mulai sekarang",
+        "link": "/dmca/submit"
+      },
+      {
+        "tag": "FAQ",
+        "title": "Pertanyaan umum",
+        "description": "Durasi proses, kontra-notice, dan kebutuhan bukti.",
+        "cta": "Lihat FAQ",
+        "link": "/dmca/learn"
+      }
+    ],
+    "processTitle": "Alur DMCA",
+    "processDescription": "Pahami empat tahap agar selalu tahu langkah berikutnya.",
+    "processSteps": [
+      {
+        "title": "Verifikasi kepemilikan",
+        "body": "Pastikan Anda pemilik atau kuasa resmi dan siapkan bukti."
+      },
+      {
+        "title": "Isi formulir",
+        "body": "Cantumkan URL, deskripsi, dan kontak untuk mempercepat validasi."
+      },
+      {
+        "title": "Kirim & ditinjau",
+        "body": "Kami menilai setiap laporan dalam 1–3 hari kerja dan bisa meminta klarifikasi."
+      },
+      {
+        "title": "Hasil & tindakan",
+        "body": "Anda akan menerima email ketika konten dihapus, dibatasi, atau memerlukan langkah lanjut."
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqDescription": "Jawaban atas pertanyaan yang paling sering diajukan seputar DMCA.",
+    "faqs": [
+      {
+        "question": "Informasi apa saja yang dibutuhkan untuk laporan DMCA?",
+        "answer": "Sertakan deskripsi karya, tautan asli dan pelanggaran, email kontak, dan pernyataan niat baik."
+      },
+      {
+        "question": "Prosesnya memakan waktu berapa lama?",
+        "answer": "Biasanya kami merespons dalam 1–3 hari kerja dan akan menghubungi Anda bila perlu data tambahan."
+      },
+      {
+        "question": "Kapan aturan Safe Harbor berlaku?",
+        "answer": "Ketika platform tidak terlibat langsung dalam pelanggaran dan segera menghapus konten setelah menerima pemberitahuan yang valid."
+      },
+      {
+        "question": "Bisakah saya mengirim counter-notice?",
+        "answer": "Jika merasa konten Anda diturunkan secara keliru, ajukan counter-notice dengan alasan yang jelas."
+      }
+    ],
+    "ctaTitle": "Butuh bantuan tambahan?",
+    "ctaDescription": "Tim hak cipta kami siap membantu melalui email atau jalur agensi Anda.",
+    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaFooter": "Hubungi tim hak cipta",
+    "ctaLibrary": "Lihat pustaka hak cipta"
+  },
+  "dmcaLearn": {
+    "headerBrand": "Pusat Bantuan SkyBox",
+    "headerNav": ["Kebijakan & Hak Cipta", "DMCA"],
+    "breadcrumb": "Pusat Bantuan / Kebijakan & Hak Cipta / DMCA",
+    "heroEyebrow": "Apa itu DMCA?",
+    "heroTitle": "DMCA melindungi platform sekaligus kreator",
+    "heroIntro": "Undang-undang tahun 1998 ini menjaga agar layanan tetap terbuka sambil memberikan jalur cepat bagi kreator untuk menurunkan konten yang melanggar.",
+    "sideArticlesTitle": "Artikel dalam bagian ini",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Ringkasan DMCA",
+        "body": [
+          "DMCA membatasi tanggung jawab langsung penyedia layanan terhadap konten pengguna namun mewajibkan penghapusan setelah menerima pemberitahuan yang sah.",
+          "Selama platform menyediakan kontak, menyimpan catatan, dan menawarkan jalur counter notice, mereka dapat mempertahankan perlindungan Safe Harbor."
+        ],
+        "list": [
+          "Notifikasi dan takedown cepat",
+          "Jalur counter notice untuk sanggahan",
+          "Kebijakan pelanggar berulang"
+        ]
+      },
+      {
+        "id": "obligations",
+        "title": "Tanggung jawab platform",
+        "body": [
+          "Layanan harus merespons tepat waktu, menyimpan log, dan menjaga kanal pelaporan tanpa mendorong pelanggaran.",
+          "Alur SkyBox mencakup penerimaan, verifikasi, moderasi, dan komunikasi transparan kepada kedua pihak."
+        ],
+        "list": [
+          "Publikasikan kontak DMCA dan praktik privasi",
+          "Validasi laporan agar tidak disalahgunakan",
+          "Sediakan formulir counter notice dengan jadwal yang jelas"
+        ]
+      },
+      {
+        "id": "creators",
+        "title": "Maknanya bagi kreator",
+        "body": [
+          "Kreator dapat meminta penghapusan tanpa menggugat; cukup kirim deskripsi karya, tautan, dan pernyataan resmi.",
+          "Jika konten dihapus keliru, mereka bisa mengajukan counter notice dan meminta pemulihan."
+        ],
+        "list": [
+          "Formulir standar mempermudah pelaporan",
+          "Counter notice mengoreksi penghapusan salah",
+          "Patuh hak cipta mencegah catatan pelanggaran berulang"
+        ]
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqs": [
+      {
+        "id": "faq-info",
+        "title": "Apa saja dokumen yang dibutuhkan?",
+        "answer": "Sertakan deskripsi karya, bukti kepemilikan, tautan asli dan pelanggaran, serta pernyataan niat baik."
+      },
+      {
+        "id": "faq-timeline",
+        "title": "Berapa lama prosesnya?",
+        "answer": "Biasanya kami merespons dalam 1–3 hari kerja dan akan menghubungi bila memerlukan detail tambahan."
+      },
+      {
+        "id": "faq-counter",
+        "title": "Bagaimana cara mengajukan counter notice?",
+        "answer": "Jika merasa konten Anda dihapus keliru, jelaskan alasan legalnya. Kami akan memeriksa dan memulihkan bila sesuai hukum."
+      },
+      {
+        "id": "faq-repeat",
+        "title": "Apa yang terjadi pada pelanggar berulang?",
+        "answer": "Akun dengan pelanggaran berulang dapat menerima peringatan, pembatasan, atau penghentian demi melindungi komunitas."
+      }
+    ],
+    "relatedTitle": "Bacaan lanjutan",
+    "relatedSubmit": "Cara mengirim takedown DMCA",
+    "relatedHub": "Kunjungi pusat DMCA SkyBox"
+  },
+  "dmcaSubmit": {
+    "heroEyebrow": "Kirim pemberitahuan DMCA",
+    "heroTitle": "Laporkan penggunaan konten berhak cipta tanpa izin",
+    "heroDesc": "Pastikan Anda pemilik atau agen resmi dan data yang diberikan akurat.",
+    "notices": [
+      "Memberi laporan palsu dapat menimbulkan konsekuensi hukum.",
+      "Berikan URL sedetail mungkin agar kami mudah menemukan konten.",
+      "Pengiriman berarti Anda menyetujui Ketentuan Layanan dan Kebijakan Privasi kami."
+    ],
+    "ownerSection": "Informasi pemilik hak cipta",
+    "workSection": "Detail karya yang dilindungi",
+    "infringeSection": "Informasi konten pelanggaran",
+    "statementSection": "Pernyataan",
+    "signatureSection": "Tanda tangan digital",
+    "name": "Nama lengkap",
+    "namePlaceholder": "Masukkan nama legal Anda",
+    "email": "Email",
+    "emailPlaceholder": "Kami akan menghubungi melalui email ini",
+    "organization": "Perusahaan / Organisasi (opsional)",
+    "organizationPlaceholder": "Opsional, isi jika mewakili perusahaan atau agensi",
+    "role": "Peran Anda",
+    "rolePlaceholder": "Pilih peran Anda",
+    "ownerRole": "Saya pemilik hak cipta",
+    "agentRole": "Saya agen resmi",
+    "otherRole": "Lainnya",
+    "workType": "Jenis karya",
+    "workTypePlaceholder": "Pilih jenis karya",
+    "workTypes": [
+      { "value": "video", "label": "Video / Film" },
+      { "value": "text", "label": "Teks / Naskah" },
+      { "value": "image", "label": "Gambar / Ilustrasi" },
+      { "value": "audio", "label": "Audio / Musik" },
+      { "value": "other", "label": "Lainnya" }
+    ],
+    "workDescription": "Deskripsi karya",
+    "workDescriptionPlaceholder": "Jelaskan karya berhak cipta secara detail",
+    "originalUrl": "URL karya asli",
+    "infringingUrl": "URL pelanggaran",
+    "infringingPlaceholder": "Tempel satu URL pelanggaran per baris",
+    "statements": [
+      {
+        "key": "goodFaith",
+        "label": "Saya yakin dengan itikad baik bahwa penggunaan di atas tidak diizinkan pemilik hak, agen, atau hukum."
+      },
+      {
+        "key": "perjury",
+        "label": "Saya menyatakan informasi ini akurat dan saya berwenang bertindak atas nama pemilik hak."
+      },
+      {
+        "key": "privacy",
+        "label": "Saya menyetujui SkyBox memproses data pribadi saya untuk menangani pemberitahuan DMCA ini."
+      }
+    ],
+    "signaturePlaceholder": "Harus sama seperti nama di atas",
+    "formDisclaimer": "Dengan mengirim formulir ini Anda menyatakan telah membaca dan menyetujui Ketentuan Layanan serta Kebijakan Privasi.",
+    "submit": "Kirim pemberitahuan",
+    "success": "Kami telah menerima laporan Anda dan akan menghubungi melalui email."
+  },
+  "privacyPage": {
+    "title": "Kebijakan Privasi",
+    "updated": "Terakhir diperbarui: 27 Sep 2025",
+    "sections": [
+      {
+        "title": "Pengendali data",
+        "body": "SkyBox PTE. LTD. mengoperasikan semua situs, aplikasi, dan layanan yang dicakup kebijakan ini."
+      },
+      {
+        "title": "Data yang kami kumpulkan",
+        "body": "Informasi akun, pembayaran, penggunaan, perangkat, serta komunikasi dengan dukungan pelanggan."
+      },
+      {
+        "title": "Cara kami menggunakan data",
+        "body": "Untuk menyediakan layanan, personalisasi, keamanan, pemrosesan pembayaran, dan pengiriman pesan penting."
+      },
+      {
+        "title": "Berbagi & pengungkapan",
+        "body": "Kami tidak menjual data pribadi. Kami hanya membaginya dengan penyedia tepercaya, untuk kewajiban hukum, atau melindungi pengguna."
+      },
+      {
+        "title": "Penyimpanan & keamanan",
+        "body": "Data disimpan selama diperlukan dan dilindungi dengan enkripsi serta kontrol akses."
+      },
+      {
+        "title": "Hak Anda",
+        "body": "Anda dapat mengakses, memperbarui, menghapus data, membatasi pemrosesan, atau keluar dari komunikasi pemasaran."
+      },
+      {
+        "title": "Transfer internasional",
+        "body": "Data dapat diproses di negara dengan hukum berbeda. Kami menggunakan perlindungan kontraktual dan enkripsi."
+      },
+      {
+        "title": "Pembaruan kebijakan",
+        "body": "Kami akan memberi tahu jika ada perubahan signifikan. Penggunaan berkelanjutan berarti Anda menerima pembaruan."
+      },
+      {
+        "title": "Kontak",
+        "body": "Pertanyaan? Email ke privacy@skytime.life."
+      }
+    ]
+  },
+  "userAgreement": {
+    "title": "Perjanjian Pengguna",
+    "updated": "Terakhir diperbarui: 27 Sep 2025",
+    "sections": [
+      {
+        "title": "Penerimaan syarat",
+        "body": "Dengan menggunakan SkyBox Anda menyetujui perjanjian ini dan pembaruannya. Jika tidak setuju, hentikan penggunaan."
+      },
+      {
+        "title": "Kelayakan & akun",
+        "body": "Anda harus berusia 13+, memberikan data akurat, dan menjaga keamanan kredensial."
+      },
+      {
+        "title": "Lisensi & penggunaan",
+        "body": "Kami memberi lisensi terbatas untuk penggunaan pribadi. Dilarang reverse engineering, scraping, atau menjual ulang konten."
+      },
+      {
+        "title": "Konten pengguna",
+        "body": "Anda tetap pemilik konten namun memberi lisensi kepada SkyBox untuk menampilkannya di layanan."
+      },
+      {
+        "title": "Pembayaran & item virtual",
+        "body": "Transaksi bersifat final kecuali diwajibkan hukum. SkyBox dapat menyesuaikan harga atau menghentikan fitur berbayar."
+      },
+      {
+        "title": "Perubahan layanan & penghentian",
+        "body": "Kami dapat memperbarui atau menonaktifkan layanan. Akun yang melanggar ketentuan dapat ditutup."
+      },
+      {
+        "title": "Penolakan tanggung jawab",
+        "body": "Layanan diberikan apa adanya. Tanggung jawab kami dibatasi hingga biaya layanan enam bulan terakhir."
+      },
+      {
+        "title": "Ganti rugi",
+        "body": "Anda setuju mengganti kerugian SkyBox atas klaim yang timbul dari pelanggaran Anda."
+      },
+      {
+        "title": "Hukum & sengketa",
+        "body": "Dikendalikan hukum Singapura. Sengketa diselesaikan melalui arbitrase SIAC."
+      },
+      {
+        "title": "Kontak",
+        "body": "Email contact@skytime.life untuk pertanyaan seputar perjanjian."
+      }
+    ]
+  },
+  "footer": {
+    "brandLine": "SkyBox - Quick, Reel, Short Drama",
+    "aboutTitle": "Tentang kami",
+    "aboutLink": "Tentang SkyBox",
+    "legalTitle": "Legal",
+    "userAgreement": "Perjanjian Pengguna",
+    "privacyPolicy": "Kebijakan Privasi",
+    "creatorTitle": "Kreator",
+    "creatorLogin": "Login Kreator",
+    "copyright": "Hak cipta © 2025 SkyBox. Seluruh hak dilindungi."
+  }
+}
+

@@ -1,0 +1,398 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "dmca": "DMCA",
+    "creator": "クリエイター"
+  },
+  "language": {
+    "label": "言語",
+    "options": {
+      "en": "English",
+      "zh": "中文",
+      "id": "Bahasa Indonesia",
+      "ja": "日本語",
+      "ko": "한국어"
+    }
+  },
+  "header": {
+    "tagline": "Quick, Reel, Short Drama"
+  },
+  "home": {
+    "heroTitle": "どこでも気軽にプレミアム短編ドラマを視聴",
+    "heroDescription": "気分に合わせて選べるシネマティックな短編。1 分のオープニングですぐに引き込まれ、好きな時間に視聴できます。",
+    "heroButton": "今すぐ始める",
+    "heroCount": "数万人の短編ドラマファン",
+    "heroLabel": "がここで毎日新作を発見",
+    "trendingTitle": "話題のショートを常にチェック",
+    "trendingDescription": "編集チームが毎日ラインアップを更新。SkyBox を開くたびに最新・最注目の短編が待っています。",
+    "whyTitle": "SkyBox が選ばれる理由",
+    "featureCuratedTitle": "厳選ライブラリ",
+    "featureCuratedDesc": "復讐サスペンスから胸キュン作品まで、すべてが人の手でキュレーションされています。",
+    "featurePlaybackTitle": "滑らかな HD 再生",
+    "featurePlaybackDesc": "アダプティブストリーミングにより、通信状態が不安定でもクリアな画質を実現。",
+    "featureDiscoveryTitle": "学習型レコメンド",
+    "featureDiscoveryDesc": "視聴行動を学習し、好みにぴったり合う短編をリアルタイムに提案します。",
+    "freeTitle": "無料・制限なし",
+    "freeDescription": "全エピソードが解放されており、課金や隠れた料金は一切ありません。",
+    "testimonialTitle": "ユーザーの声",
+    "testimonials": {
+      "emma": "「短編ドラマが大好きですが、SkyBox ならいつも新しい作品に出会えます。」",
+      "ramuel": "「仕事後に数話見るだけでリラックスできます。作品数が多くて本当にハマりました。」",
+      "wizzard": "「画質と滑らかさは他アプリより断然良いです。普通の Wi-Fi でも快適。」",
+      "queenita": "「レコメンドが驚くほど私好み。毎回新しいお気に入りが見つかります。」",
+      "liam": "「更新が速くて、人気作をすぐに視聴できます。」"
+    },
+    "brandSubtitle": "SkyBox - Quick, Reel, Short Drama"
+  },
+  "aboutPage": {
+    "title": "SkyBox について",
+    "intro": "SkyBox は世界中の視聴者にプレミアムなショートドラマ体験を提供し、スキマ時間を有意義にします。",
+    "missionTitle": "ミッション",
+    "missionBody": "質の高い多様な短編ドラマをすべての視聴者へ届け、いつでも楽しめるようにすること。",
+    "valuesTitle": "価値観",
+    "values": [
+      {
+        "title": "イノベーション",
+        "body": "ショートドラマの制作と視聴スタイルを再定義します。"
+      },
+      {
+        "title": "クオリティ",
+        "body": "すべての作品は厳しい審査と画質チェックを経て公開されます。"
+      },
+      {
+        "title": "ユーザー中心",
+        "body": "視聴者の声を起点にプロダクトとコンテンツを進化させます。"
+      }
+    ],
+    "contactTitle": "お問い合わせ",
+    "contactBody": "コラボのご相談やご質問がありましたらお気軽にご連絡ください。",
+    "contactEmail": "メール: contact@skytime.life",
+    "contactMcn": "MCN 連絡先: mcn@skytime.life",
+    "contactBiz": "ビジネス: bd@skytime.life",
+    "contactAddress": "住所: Shenzhen Jiatuning Building Materials Co., Ltd."
+  },
+  "creator": {
+    "badge": "クリエイターサービス",
+    "title": "SkyBox クリエイターに参加",
+    "subtitle": "データ分析やマネタイズツールを活用して短編制作を加速させましょう。",
+    "panelLogin": "メールログイン",
+    "panelReset": "パスワード再設定",
+    "toggleForgot": "パスワードを忘れた?",
+    "toggleBack": "ログインに戻る",
+    "emailPlaceholder": "メールアドレス",
+    "passwordPlaceholder": "パスワード",
+    "remember": "記憶する",
+    "helper": "再設定手順をメールでお送りします。",
+    "login": "ログイン",
+    "send": "送信",
+    "unavailable": "このアカウントはまだ対象外です。代理店経由での入居をご相談ください。"
+  },
+  "dmcaPage": {
+    "heroEyebrow": "SkyBox DMCA ヘルプセンター",
+    "heroTitle": "Safe Harbor と DMCA フローを理解し、著作権を守る",
+    "heroDescription": "SkyBox は申請ルート、進捗確認、FAQ を提供し、権利者を全面的にサポートします。",
+    "ctaSubmit": "通知を送信",
+    "ctaLearn": "詳細を見る",
+    "helpTitle": "サポート内容",
+    "helpDescription": "Safe Harbor の概要から通知の送り方、FAQ までを 1 か所で確認できます。",
+    "helpCards": [
+      {
+        "tag": "Safe Harbor",
+        "title": "Safe Harbor とは？",
+        "description": "プラットフォームが迅速に侵害コンテンツを対処するための仕組みを解説します。",
+        "cta": "ガイドを見る",
+        "link": "/dmca/learn"
+      },
+      {
+        "tag": "申請",
+        "title": "DMCA 通知の送信方法",
+        "description": "必要書類とステップをチェックリスト形式で説明します。",
+        "cta": "今すぐ開始",
+        "link": "/dmca/submit"
+      },
+      {
+        "tag": "FAQ",
+        "title": "よくある質問",
+        "description": "処理時間や反通知、証拠要件などをまとめています。",
+        "cta": "FAQ へ",
+        "link": "/dmca/learn"
+      }
+    ],
+    "processTitle": "DMCA プロセス",
+    "processDescription": "4 つのステップを把握して次のアクションを見通しましょう。",
+    "processSteps": [
+      {
+        "title": "権利確認",
+        "body": "著作権者または代理人であることを確認し、証拠を準備します。"
+      },
+      {
+        "title": "フォーム記入",
+        "body": "作品情報、侵害 URL、連絡先を入力して迅速な判断を助けます。"
+      },
+      {
+        "title": "送信と審査",
+        "body": "1～3 営業日以内に対応し、必要に応じて追加情報を依頼します。"
+      },
+      {
+        "title": "結果通知",
+        "body": "削除・制限・追加対応の結果をメールでお知らせします。"
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqDescription": "DMCA・Safe Harbor・反通知に関する代表的な質問に回答します。",
+    "faqs": [
+      {
+        "question": "DMCA 通知には何が必要ですか？",
+        "answer": "作品説明、オリジナルと侵害 URL、連絡先、善意の宣誓を記載してください。"
+      },
+      {
+        "question": "処理にはどのくらい時間がかかりますか？",
+        "answer": "通常 1〜3 営業日以内に返信し、追加情報が必要な場合はメールでご連絡します。"
+      },
+      {
+        "question": "Safe Harbor が適用される条件は？",
+        "answer": "プラットフォームが侵害に関与せず、適切な通知後に迅速対応した場合に適用されます。"
+      },
+      {
+        "question": "反通知は送れますか？",
+        "answer": "誤って削除されたと考える場合は反通知を提出し、理由を詳しく説明してください。"
+      }
+    ],
+    "ctaTitle": "さらにサポートが必要ですか？",
+    "ctaDescription": "著作権チームがメールまたはエージェンシー経由でサポートいたします。",
+    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaFooter": "著作権チームへ連絡",
+    "ctaLibrary": "著作権ライブラリを見る"
+  },
+  "dmcaLearn": {
+    "headerBrand": "SkyBox ヘルプセンター",
+    "headerNav": ["ポリシーと著作権", "DMCA"],
+    "breadcrumb": "ヘルプセンター / ポリシーと著作権 / DMCA",
+    "heroEyebrow": "What is the DMCA?",
+    "heroTitle": "DMCA はプラットフォームとクリエイター双方を守る仕組みです",
+    "heroIntro": "1998 年制定の DMCA は、安全港規則でオープンなサービスを維持しつつ、権利者に迅速な削除手段を提供します。",
+    "sideArticlesTitle": "本セクションの記事",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "DMCA 概要",
+        "body": [
+          "DMCA はユーザー投稿に対してサービス提供者の直接責任を限定し、有効な通知後に侵害コンテンツを速やかに削除することを求めます。",
+          "連絡窓口を公開し、処理記録を保持し、反通知ルートを整備することで Safe Harbor 保護を維持できます。"
+        ],
+        "list": [
+          "通知と削除：有効通知を受けたら迅速にコンテンツを下げる",
+          "反通知：削除対象が異議を申し立てるための仕組み",
+          "再犯者ポリシー：繰り返し侵害するアカウントを制限・停止"
+        ]
+      },
+      {
+        "id": "obligations",
+        "title": "サービス提供者の責務",
+        "body": [
+          "プラットフォームは迅速な対応、ログの保管、通報と反通知チャネルの維持を行い、侵害を助長しないポリシーを採用する必要があります。",
+          "SkyBox のフローは、受領・検証・対処・双方への透明なコミュニケーションで構成されています。"
+        ],
+        "list": [
+          "DMCA 連絡先とプライバシー方針を公開",
+          "通知内容を検証して悪用を防止",
+          "反通知フォームとタイムラインを用意し進捗を追跡"
+        ]
+      },
+      {
+        "id": "creators",
+        "title": "クリエイターへの影響",
+        "body": [
+          "クリエイターは訴訟を起こさなくても、作品説明とリンク、宣誓文を提出するだけで削除を要請できます。",
+          "誤って削除された場合は反通知を提出し、正当性を説明することで復元が可能です。"
+        ],
+        "list": [
+          "標準化されたフォームで手続きが簡単",
+          "反通知によって誤削除を是正",
+          "他者の権利を尊重して再犯ポリシーを回避"
+        ]
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqs": [
+      {
+        "title": "必要な資料は？",
+        "answer": "作品説明、原本と侵害 URL、連絡先、善意の宣誓を準備してください。"
+      },
+      {
+        "title": "返信までの時間は？",
+        "answer": "通常 1〜3 営業日で初回連絡を行い、追加情報が必要な場合はメールでお知らせします。"
+      },
+      {
+        "title": "反通知はどう使いますか？",
+        "answer": "コンテンツが誤って削除された場合、理由を添えて反通知を提出できます。"
+      },
+      {
+        "title": "再犯ユーザーへの対応は？",
+        "answer": "複数回侵害が確認されたアカウントには警告・制限・停止を適用します。"
+      }
+    ],
+    "relatedTitle": "関連リンク",
+    "relatedSubmit": "DMCA 送信方法",
+    "relatedHub": "SkyBox DMCA センター"
+  },
+  "dmcaSubmit": {
+    "heroEyebrow": "DMCA 通知を送信",
+    "heroTitle": "無断利用された著作物を報告",
+    "heroDesc": "権利者または正当な代理人であることを確認し、正確な情報を入力してください。",
+    "notices": [
+      "虚偽の通知は法的責任を生む可能性があります。",
+      "該当コンテンツを特定できる詳細な URL を記載してください。",
+      "送信により利用規約およびプライバシーポリシーに同意したものとみなします。"
+    ],
+    "ownerSection": "権利者情報",
+    "workSection": "保護対象の作品情報",
+    "infringeSection": "侵害コンテンツ情報",
+    "statementSection": "宣誓事項",
+    "signatureSection": "電子署名",
+    "name": "氏名",
+    "namePlaceholder": "法的氏名を入力してください",
+    "email": "メールアドレス",
+    "emailPlaceholder": "今後の連絡に使用するメールアドレス",
+    "organization": "会社 / 団体（任意）",
+    "organizationPlaceholder": "任意。企業や代理店名があれば入力してください",
+    "role": "役割",
+    "rolePlaceholder": "役割を選択",
+    "ownerRole": "私は権利者です",
+    "agentRole": "私は代理人です",
+    "otherRole": "その他",
+    "workType": "作品タイプ",
+    "workTypePlaceholder": "作品タイプを選択",
+    "workTypes": [
+      { "value": "video", "label": "動画 / 映画" },
+      { "value": "text", "label": "テキスト / 脚本" },
+      { "value": "image", "label": "画像 / イラスト" },
+      { "value": "audio", "label": "音声 / サウンド" },
+      { "value": "other", "label": "その他" }
+    ],
+    "workDescription": "作品の説明",
+    "workDescriptionPlaceholder": "作品名や特徴など識別できる情報を詳しく記載してください",
+    "originalUrl": "原作品の URL",
+    "infringingUrl": "侵害 URL",
+    "infringingPlaceholder": "1 行につき 1 件の侵害 URL を入力してください",
+    "statements": [
+      {
+        "key": "goodFaith",
+        "label": "上記の利用は権利者、代理人、または法律によって許可されていないと誠実に信じています。"
+      },
+      {
+        "key": "perjury",
+        "label": "情報が正確であり、自分が権利者またはその代理人であることを宣誓します。"
+      },
+      {
+        "key": "privacy",
+        "label": "SkyBox が本通知に対応する目的で個人情報を処理することに同意します。"
+      }
+    ],
+    "signaturePlaceholder": "上記の氏名と同じ名前を入力してください",
+    "formDisclaimer": "このフォームを送信すると、利用規約とプライバシーポリシーに同意したものとみなされます。",
+    "submit": "通知を送信",
+    "success": "通知を受領しました。後ほどメールでご連絡します。"
+  },
+  "privacyPage": {
+    "title": "プライバシーポリシー",
+    "updated": "最終更新日: 2025 年 9 月 27 日",
+    "sections": [
+      {
+        "title": "データ管理者",
+        "body": "SkyBox PTE. LTD. が本ポリシー対象のサイト・アプリ・サービスのデータ処理を担います。"
+      },
+      {
+        "title": "収集する情報",
+        "body": "アカウント情報、支払記録、利用状況、デバイスログ、お問い合わせ内容などを取得します。"
+      },
+      {
+        "title": "利用目的",
+        "body": "サービス提供、パーソナライズ、セキュリティ強化、決済処理、通知やマーケティング配信に利用します。"
+      },
+      {
+        "title": "共有と開示",
+        "body": "個人情報を販売しません。委託業者、法的要請、ユーザーや SkyBox の保護目的でのみ共有します。"
+      },
+      {
+        "title": "保管と安全性",
+        "body": "目的達成後は削除または匿名化し、暗号化やアクセス制御で保護します。"
+      },
+      {
+        "title": "ユーザーの権利",
+        "body": "情報の閲覧・修正・削除、処理の制限やマーケティング配信の停止を求めることができます。"
+      },
+      {
+        "title": "国際転送",
+        "body": "法制度の異なる地域でデータを処理する場合がありますが、契約上の保護と暗号化で安全を確保します。"
+      },
+      {
+        "title": "ポリシー変更",
+        "body": "重大な変更はメールやアプリ内でお知らせします。継続利用により変更に同意したものとみなされます。"
+      },
+      {
+        "title": "お問い合わせ",
+        "body": "ご不明点は privacy@skytime.life までご連絡ください。"
+      }
+    ]
+  },
+  "userAgreement": {
+    "title": "利用規約",
+    "updated": "最終更新日: 2025 年 9 月 27 日",
+    "sections": [
+      {
+        "title": "規約の受諾",
+        "body": "SkyBox を使用することで、本規約および将来の更新に同意したものとみなされます。"
+      },
+      {
+        "title": "利用資格とアカウント",
+        "body": "13 歳以上で正確な情報を提供し、ログイン情報を厳重に管理する必要があります。"
+      },
+      {
+        "title": "ライセンスと利用",
+        "body": "SkyBox は個人利用のための限定的ライセンスを付与します。リバースエンジニアリングや無断配布は禁止です。"
+      },
+      {
+        "title": "ユーザーコンテンツ",
+        "body": "投稿コンテンツの所有権はユーザーにありますが、SkyBox で表示するためのライセンスを付与いただきます。"
+      },
+      {
+        "title": "支払いとバーチャルアイテム",
+        "body": "法的義務を除き、支払い完了後の返金はできません。価格やサービスは変更される場合があります。"
+      },
+      {
+        "title": "サービス変更・終了",
+        "body": "SkyBox はサービスの更新や停止を行うことができ、規約違反アカウントを停止する権利を有します。"
+      },
+      {
+        "title": "免責と責任制限",
+        "body": "本サービスは現状のまま提供され、間接的・付随的損害について当社は責任を負いません。"
+      },
+      {
+        "title": "補償",
+        "body": "ユーザーの違反により生じた請求について、ユーザーは SkyBox を補償するものとします。"
+      },
+      {
+        "title": "準拠法と紛争",
+        "body": "本規約はシンガポール法に準拠し、紛争は SIAC の仲裁により解決します。"
+      },
+      {
+        "title": "連絡先",
+        "body": "規約に関するお問い合わせは contact@skytime.life へご連絡ください。"
+      }
+    ]
+  },
+  "footer": {
+    "brandLine": "SkyBox - Quick, Reel, Short Drama",
+    "aboutTitle": "私たちについて",
+    "aboutLink": "SkyBox について",
+    "legalTitle": "法的情報",
+    "userAgreement": "利用規約",
+    "privacyPolicy": "プライバシーポリシー",
+    "creatorTitle": "クリエイター",
+    "creatorLogin": "クリエイターログイン",
+    "copyright": "Copyright © 2025 SkyBox. All rights reserved."
+  }
+}
+

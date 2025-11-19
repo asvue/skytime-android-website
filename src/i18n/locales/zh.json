@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "dmca": "DMCA",
+    "creator": "创作者"
+  },
+  "language": {
+    "label": "语言",
+    "options": {
+      "en": "English",
+      "zh": "简体中文",
+      "id": "印尼语",
+      "ja": "日语",
+      "ko": "韩语"
+    }
+  },
+  "header": {
+    "tagline": "Quick, Reel, Short Drama"
+  },
+  "home": {
+    "heroTitle": "随时随地沉浸式追短剧",
+    "heroDescription": "电影级短剧、分钟级剧情，满足每一种情绪。只需一支片头就能被吸引，随时随地追完一季。",
+    "heroButton": "立即体验",
+    "heroCount": "数万短剧用户",
+    "heroLabel": "正在这里寻找新内容与新选择",
+    "trendingTitle": "实时掌握热播短剧",
+    "trendingDescription": "编辑团队每天更新片单，打开 SkyBox 就能看到最新、最火的短剧推荐。",
+    "whyTitle": "为什么选择 SkyBox",
+    "featureCuratedTitle": "精选内容库",
+    "featureCuratedDesc": "从复仇爽剧到甜蜜爱情，所有片单都经过人工策划，打开就有好剧。",
+    "featurePlaybackTitle": "顺滑高清播放",
+    "featurePlaybackDesc": "自适应流媒体技术，在普通网络环境下也能保持高清与流畅。",
+    "featureDiscoveryTitle": "智能发现",
+    "featureDiscoveryDesc": "根据你的暂停、点赞、完播数据实时调整推荐，让短剧更懂你。",
+    "freeTitle": "免费 · 无限观看",
+    "freeDescription": "所有剧集全部解锁，无需订阅、无隐藏收费，畅享完整剧情。",
+    "testimonialTitle": "用户怎么说",
+    "testimonials": {
+      "emma": "“我是短剧铁粉，SkyBox 总能让我找到新鲜片子，现在每天都离不开。”",
+      "ramuel": "“每天下班看几集就放松了，新剧不断，刷着刷着停不下来。”",
+      "wizzard": "“画质和流畅度完胜其他 APP，就算网络一般也不卡。”",
+      "queenita": "“推荐很懂我，每次打开都有新惊喜，完全命中我的口味。”",
+      "liam": "“更新速度超快，热门短剧第一时间就能看。”"
+    },
+    "brandSubtitle": "SkyBox - Quick，Reel，Short Drama"
+  },
+  "aboutPage": {
+    "title": "关于 SkyBox",
+    "intro": "SkyBox 面向全球短剧观众，提供高品质、短平快的影视体验，让碎片时间也能追完精彩故事。",
+    "missionTitle": "我们的使命",
+    "missionBody": "把优秀、多元的短剧送到每位观众身边，让娱乐触手可及、值得期待。",
+    "valuesTitle": "我们的价值观",
+    "values": [
+      {
+        "title": "创新",
+        "body": "大胆尝试新的叙事与产品形态，重塑短剧体验。"
+      },
+      {
+        "title": "品质",
+        "body": "所有上线作品都经过严格审片和画质校验。"
+      },
+      {
+        "title": "用户至上",
+        "body": "以用户反馈驱动产品与内容迭代，让 SkyBox 始终贴近观众。"
+      }
+    ],
+    "contactTitle": "联系我们",
+    "contactBody": "期待合作或有任何建议，欢迎随时与我们沟通。",
+    "contactEmail": "邮箱：contact@skytime.life",
+    "contactMcn": "MCN 机构：mcn@skytime.life",
+    "contactBiz": "商务合作：bd@skytime.life",
+    "contactAddress": "地址：Shenzhen Jiatuning Building Materials Co., Ltd."
+  },
+  "creator": {
+    "badge": "创作者服务平台",
+    "title": "加入 SkyBox 创作者",
+    "subtitle": "解锁数据分析、投放位与商业化工具，让短剧创作更高效。",
+    "panelLogin": "邮箱登录",
+    "panelReset": "重置密码",
+    "toggleForgot": "忘记密码？",
+    "toggleBack": "返回登录",
+    "emailPlaceholder": "邮箱地址",
+    "passwordPlaceholder": "登录密码",
+    "remember": "记住我",
+    "helper": "我们会把重置指引发送到该邮箱。",
+    "login": "登 录",
+    "send": "发 送",
+    "unavailable": "该账号暂不支持，请联系代理机构完成入驻。"
+  },
+  "dmcaPage": {
+    "heroEyebrow": "SkyBox DMCA 帮助中心",
+    "heroTitle": "了解安全港原则与 DMCA 流程，保护您的版权",
+    "heroDescription": "SkyBox 提供完整的提交通道、进度追踪与常见问题，帮助权利人快速行动。",
+    "ctaSubmit": "提交通知",
+    "ctaLearn": "了解更多",
+    "helpTitle": "我们能帮您做什么",
+    "helpDescription": "快速了解安全港原则、提交流程与常见问题，让维权更高效。",
+    "helpCards": [
+      {
+        "tag": "安全港",
+        "title": "什么是安全港？",
+        "description": "了解平台如何在合规的前提下及时移除侵权内容。",
+        "cta": "阅读指南",
+        "link": "/dmca/learn"
+      },
+      {
+        "tag": "提交通知",
+        "title": "如何提交 DMCA？",
+        "description": "清单式步骤与材料说明，确保一次提交就通过。",
+        "cta": "立即开始",
+        "link": "/dmca/submit"
+      },
+      {
+        "tag": "FAQ",
+        "title": "常见问题",
+        "description": "处理时效、反通知、证据要求等问题一网打尽。",
+        "cta": "查看 FAQ",
+        "link": "/dmca/learn"
+      }
+    ],
+    "processTitle": "DMCA 处理流程",
+    "processDescription": "掌握四个阶段，随时了解下一步。",
+    "processSteps": [
+      {
+        "title": "确认权属",
+        "body": "确认您拥有或受托代理相关版权，并准备证明材料。"
+      },
+      {
+        "title": "填写表单",
+        "body": "提供作品信息、侵权链接与联系方式，便于快速核验。"
+      },
+      {
+        "title": "提交与审核",
+        "body": "我们会在 1-3 个工作日内处理，每一步都会邮件通知。"
+      },
+      {
+        "title": "结果反馈",
+        "body": "内容下架、限制或需补充材料都会第一时间同步给您。"
+      }
+    ],
+    "faqTitle": "常见问题解答",
+    "faqDescription": "涵盖 DMCA 提交流程、安全港条款与反通知处理。",
+    "faqs": [
+      {
+        "question": "提交 DMCA 通知需要提供哪些信息？",
+        "answer": "您需要提供作品信息、侵权链接、版权证明、联系邮箱及诚信声明，以便我们核实请求。"
+      },
+      {
+        "question": "多久可以收到处理反馈？",
+        "answer": "通常 1-3 个工作日内会有初步反馈，如需更多信息我们会通过邮箱与您确认。"
+      },
+      {
+        "question": "什么情况下可以适用安全港原则？",
+        "answer": "当平台未直接参与侵权并在收到有效通知后迅速删除或屏蔽内容时，可获得安全港保护。"
+      },
+      {
+        "question": "可以提交反通知吗？",
+        "answer": "如果您认为内容被误删，可提交反通知并附上充分理由，我们会在审核后恢复内容。"
+      }
+    ],
+    "ctaTitle": "仍需帮助？",
+    "ctaDescription": "我们的版权团队随时待命，您可以通过邮件或代理渠道与我们联系。",
+    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaFooter": "联系版权团队",
+    "ctaLibrary": "查看版权百科"
+  },
+  "dmcaLearn": {
+    "headerBrand": "SkyBox 帮助中心",
+    "headerNav": ["政策与版权", "DMCA"],
+    "breadcrumb": "帮助中心 / 政策与版权 / DMCA",
+    "heroEyebrow": "What is the DMCA?",
+    "heroTitle": "DMCA 让平台与创作者协同共赢",
+    "heroIntro": "数字千年版权法通过安全港机制，既保护创作者正当权益，也保障平台开放创新。",
+    "sideArticlesTitle": "本节文章",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "DMCA 概览",
+        "body": [
+          "DMCA 限制了服务商对用户侵权内容的直接责任，并要求在收到有效通知后及时删除或屏蔽内容。",
+          "只要平台公布联系渠道、保存记录并提供反通知路径，就能保留安全港保护。"
+        ],
+        "list": [
+          "通知—删除机制：收到有效通知后迅速下架",
+          "反通知机制：被删除方可依法申诉",
+          "重复侵权政策：对屡次违规账号进行限制或终止"
+        ]
+      },
+      {
+        "id": "obligations",
+        "title": "服务商责任",
+        "body": [
+          "平台需及时响应、记录全流程并维护举报与反通知入口，同时不得纵容侵权行为。",
+          "SkyBox 的流程包括接收、核实、处理以及与双方保持透明沟通。"
+        ],
+        "list": [
+          "公开 DMCA 联系方式与隐私实践",
+          "核验通知信息，避免滥用",
+          "为反通知提供可追踪的表单与时间表"
+        ]
+      },
+      {
+        "id": "creators",
+        "title": "对创作者意味着什么",
+        "body": [
+          "创作者无需诉讼即可提交下架通知，只需提供作品描述、链接与诚信声明。",
+          "若作品被误删，可提交反通知请求恢复。"
+        ],
+        "list": [
+          "标准化表单让下架流程更简单",
+          "反通知可纠正误删",
+          "遵守版权可避免触发重复侵权政策"
+        ]
+      }
+    ],
+    "faqTitle": "FAQ",
+    "faqs": [
+      { "id": "faq-info", "title": "需要哪些材料？", "answer": "准备作品描述、原始与侵权链接、联系方式及诚信声明。" },
+      { "id": "faq-timeline", "title": "多久能收到回复？", "answer": "一般 1-3 个工作日会有初步回复，如需更多信息会通过邮箱联系。" },
+      { "id": "faq-counter", "title": "如何提交反通知？", "answer": "说明内容合法或被误删的理由，我们会在法律允许范围内恢复。" },
+      { "id": "faq-repeat", "title": "重复侵权如何处理？", "answer": "多次被证实侵权的账号会被警告、限制甚至终止以保护社区。" }
+    ],
+    "relatedTitle": "延伸阅读",
+    "relatedSubmit": "如何提交 DMCA 下架",
+    "relatedHub": "前往 SkyBox DMCA 中心"
+  },
+  "dmcaSubmit": {
+    "heroEyebrow": "提交 DMCA 通知",
+    "heroTitle": "举报未经授权的版权使用",
+    "heroDesc": "请确认您是版权方或其授权代理，并确保提交的信息真实准确。",
+    "notices": [
+      "虚假通知可能承担法律责任。",
+      "请提供尽可能详细的侵权链接，以便我们定位内容。",
+      "提交即表示您同意我们的服务条款与隐私政策。"
+    ],
+    "ownerSection": "版权所有者信息",
+    "workSection": "受保护作品信息",
+    "infringeSection": "侵权内容信息",
+    "statementSection": "声明与确认",
+    "signatureSection": "数字签名",
+    "name": "姓名",
+    "namePlaceholder": "请输入您的法定姓名",
+    "email": "邮箱",
+    "emailPlaceholder": "我们将通过此邮箱与您联系",
+    "organization": "公司 / 组织（可选）",
+    "organizationPlaceholder": "如代表公司或机构，可在此填写",
+    "role": "您的身份",
+    "rolePlaceholder": "请选择您的身份",
+    "ownerRole": "我是版权所有者",
+    "agentRole": "我是授权代理人",
+    "otherRole": "其他",
+    "workType": "作品类型",
+    "workTypePlaceholder": "选择作品类型",
+    "workTypes": [
+      { "value": "video", "label": "视频 / 影视" },
+      { "value": "text", "label": "文字 / 脚本" },
+      { "value": "image", "label": "图片 / 插画" },
+      { "value": "audio", "label": "音频 / 配乐" },
+      { "value": "other", "label": "其他" }
+    ],
+    "workDescription": "作品描述",
+    "workDescriptionPlaceholder": "请描述该作品的类型、名称或其他辨识信息",
+    "originalUrl": "原始作品链接",
+    "infringingUrl": "侵权链接（可多条）",
+    "infringingPlaceholder": "每行输入一个侵权链接，方便我们快速核实",
+    "statements": [
+      {
+        "key": "goodFaith",
+        "label": "我真诚地相信，上述材料的使用未经版权所有者、其代理人或法律授权。"
+      },
+      {
+        "key": "perjury",
+        "label": "本人宣誓，此通知信息准确无误，并且本人具备相应授权。"
+      },
+      {
+        "key": "privacy",
+        "label": "我同意 SkyBox 为处理该通知而处理我的个人数据。"
+      }
+    ],
+    "signaturePlaceholder": "需与表单顶部姓名一致",
+    "formDisclaimer": "提交此表格即表示您已阅读并同意我们的服务条款与隐私政策。",
+    "submit": "提交通知",
+    "success": "我们已收到您的相关信息，后续将通过邮箱与您联系。"
+  },
+  "privacyPage": {
+    "title": "隐私政策",
+    "updated": "最后更新：2025 年 9 月 27 日",
+    "sections": [
+      {
+        "title": "数据控制者",
+        "body": "SkyBox PTE. LTD. 负责本政策所述网站、App 及服务的运营与数据处理。"
+      },
+      {
+        "title": "我们收集哪些信息",
+        "body": "包括账户与身份信息、支付记录、使用数据、设备日志以及与客服沟通内容等。"
+      },
+      {
+        "title": "我们如何使用信息",
+        "body": "用于提供服务、个性化推荐、保障安全、完成支付以及发送通知或营销信息。"
+      },
+      {
+        "title": "共享与披露",
+        "body": "我们不会出售个人信息，仅会在受托处理、法律要求或保护用户与 SkyBox 时共享。"
+      },
+      {
+        "title": "存储与安全",
+        "body": "数据会在达成目的后删除或匿名化，并采取加密、访问控制等措施保障安全。"
+      },
+      {
+        "title": "您的权利",
+        "body": "您可访问、更新、删除个人信息，限制处理或退出营销通知。"
+      },
+      {
+        "title": "跨境传输",
+        "body": "数据可能在不同司法辖区处理，我们会通过合同条款和加密确保合规。"
+      },
+      {
+        "title": "政策更新",
+        "body": "如有重大变更，我们将通过邮件或站内通知；继续使用即表示接受更新。"
+      },
+      {
+        "title": "联系我们",
+        "body": "如有疑问，请发送邮件至 privacy@skytime.life。"
+      }
+    ]
+  },
+  "userAgreement": {
+    "title": "用户协议",
+    "updated": "最后更新：2025 年 9 月 27 日",
+    "sections": [
+      {
+        "title": "条款接受",
+        "body": "使用 SkyBox 即表示您同意本协议及其更新，如不同意请停止使用。"
+      },
+      {
+        "title": "资格与账户",
+        "body": "您必须年满 13 岁，提供真实信息并妥善保管账号。如有异常请立即联系 SkyBox。"
+      },
+      {
+        "title": "许可与使用",
+        "body": "我们授予有限的个人使用许可。禁止反向工程、抓取或擅自分发平台内容。"
+      },
+      {
+        "title": "用户内容",
+        "body": "您拥有上传内容，但授权 SkyBox 在服务范围内展示。请确保内容合法且不侵权。"
+      },
+      {
+        "title": "付费与虚拟资产",
+        "body": "除法律另有要求外，已完成交易不可退款。SkyBox 可调整价格或下线付费权益。"
+      },
+      {
+        "title": "服务变更与终止",
+        "body": "我们可随时更新或终止服务，如用户违反政策或损害他人权益，可冻结或关闭账户。"
+      },
+      {
+        "title": "免责声明与责任限制",
+        "body": "SkyBox 按“现状”提供服务，对间接或附带损失不承担责任，最高赔偿限于近六个月服务费用。"
+      },
+      {
+        "title": "赔偿",
+        "body": "因您违反协议或侵权而引起的索赔，需由您承担并赔偿 SkyBox 的损失及费用。"
+      },
+      {
+        "title": "法律与争议",
+        "body": "本协议受新加坡法律管辖，争议提交 SIAC 仲裁解决。"
+      },
+      {
+        "title": "联系方式",
+        "body": "如需咨询，请发送邮件至 contact@skytime.life。"
+      }
+    ]
+  },
+  "footer": {
+    "brandLine": "SkyBox - Quick, Reel, Short Drama",
+    "aboutTitle": "关于我们",
+    "aboutLink": "关于我们",
+    "legalTitle": "法律信息",
+    "userAgreement": "用户协议",
+    "privacyPolicy": "隐私政策",
+    "creatorTitle": "创作者",
+    "creatorLogin": "创作者登录",
+    "copyright": "版权所有 © 2025 SkyBox. 保留所有权利。"
+  }
+}
+

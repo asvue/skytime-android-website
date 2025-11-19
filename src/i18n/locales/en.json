@@ -67,9 +67,9 @@
     ],
     "contactTitle": "Contact Us",
     "contactBody": "Have questions or want to partner with us? Reach out anytime.",
-    "contactEmail": "Email: contact@skytime.life",
-    "contactMcn": "MCN partners: mcn@skytime.life",
-    "contactBiz": "Business: bd@skytime.life",
+    "contactEmail": "Email: {email}",
+    "contactMcn": "MCN partners: {email}",
+    "contactBiz": "Business: {email}",
     "contactAddress": "Address: Shenzhen Jiatuning Building Materials Co., Ltd."
   },
   "creator": {
@@ -161,7 +161,7 @@
     ],
     "ctaTitle": "Need more help?",
     "ctaDescription": "Our copyright specialists are ready to assist via email or through your agency contacts.",
-    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaContactLink": "mailto:{email}",
     "ctaFooter": "Contact Copyright Team",
     "ctaLibrary": "View Copyright Library"
   },
@@ -333,7 +333,7 @@
       },
       {
         "title": "Contact",
-        "body": "Questions? Email privacy@skytime.life."
+        "body": "Questions? Email {email}."
       }
     ]
   },
@@ -379,7 +379,7 @@
       },
       {
         "title": "Contact",
-        "body": "Email contact@skytime.life for any questions about this agreement."
+        "body": "Email {email} for any questions about this agreement."
       }
     ]
   },

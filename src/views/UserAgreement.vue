@@ -21,7 +21,16 @@ import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 const { t, tm } = useI18n()
-const sections = computed(() => tm('userAgreement.sections') || [])
+
+const AGREEMENT_CONTACT_EMAIL = 'contact@skytime.life'
+
+const sections = computed(() => {
+  const rawSections = tm('userAgreement.sections') || []
+  return rawSections.map((_, index) => ({
+    title: t(`userAgreement.sections[${index}].title`),
+    body: t(`userAgreement.sections[${index}].body`, { email: AGREEMENT_CONTACT_EMAIL })
+  }))
+})
 </script>
 
 <style scoped>

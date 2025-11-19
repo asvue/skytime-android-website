@@ -73,7 +73,7 @@
       <h2>{{ t('dmcaPage.ctaTitle') }}</h2>
       <p>{{ t('dmcaPage.ctaDescription') }}</p>
       <div class="cta-actions">
-        <a class="btn-primary" :href="t('dmcaPage.ctaContactLink')">{{ t('dmcaPage.ctaFooter') }}</a>
+        <a class="btn-primary" :href="ctaContactHref">{{ t('dmcaPage.ctaFooter') }}</a>
         <router-link class="btn-secondary" to="/dmca/learn">{{ t('dmcaPage.ctaLibrary') }}</router-link>
       </div>
     </section>
@@ -86,9 +86,12 @@ import { useI18n } from 'vue-i18n'
 
 const { t, tm } = useI18n()
 
+const COPYRIGHT_EMAIL = 'copyright@skytime.life'
+
 const helpTopics = computed(() => tm('dmcaPage.helpCards') || [])
 const processSteps = computed(() => tm('dmcaPage.processSteps') || [])
 const faqs = computed(() => tm('dmcaPage.faqs') || [])
+const ctaContactHref = computed(() => t('dmcaPage.ctaContactLink', { email: COPYRIGHT_EMAIL }))
 
 const activeFaq = ref(0)
 

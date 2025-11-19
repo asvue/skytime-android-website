@@ -29,9 +29,9 @@
           <h2>{{ t('aboutPage.contactTitle') }}</h2>
           <p>{{ t('aboutPage.contactBody') }}</p>
           <div class="contact-info">
-            <p>{{ t('aboutPage.contactEmail') }}</p>
-            <p>{{ t('aboutPage.contactMcn') }}</p>
-            <p>{{ t('aboutPage.contactBiz') }}</p>
+            <p>{{ t('aboutPage.contactEmail', { email: CONTACT_EMAIL }) }}</p>
+            <p>{{ t('aboutPage.contactMcn', { email: CONTACT_MCN_EMAIL }) }}</p>
+            <p>{{ t('aboutPage.contactBiz', { email: CONTACT_BIZ_EMAIL }) }}</p>
             <p>{{ t('aboutPage.contactAddress') }}</p>
           </div>
         </section>
@@ -45,6 +45,10 @@ import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 const { t, tm } = useI18n()
+
+const CONTACT_EMAIL = 'contact@skytime.life'
+const CONTACT_MCN_EMAIL = 'mcn@skytime.life'
+const CONTACT_BIZ_EMAIL = 'bd@skytime.life'
 
 const values = computed(() => tm('aboutPage.values') || [])
 </script>

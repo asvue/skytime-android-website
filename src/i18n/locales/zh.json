@@ -67,9 +67,9 @@
     ],
     "contactTitle": "联系我们",
     "contactBody": "期待合作或有任何建议，欢迎随时与我们沟通。",
-    "contactEmail": "邮箱：contact@skytime.life",
-    "contactMcn": "MCN 机构：mcn@skytime.life",
-    "contactBiz": "商务合作：bd@skytime.life",
+    "contactEmail": "邮箱：{email}",
+    "contactMcn": "MCN 机构：{email}",
+    "contactBiz": "商务合作：{email}",
     "contactAddress": "地址：Shenzhen Jiatuning Building Materials Co., Ltd."
   },
   "creator": {
@@ -161,7 +161,7 @@
     ],
     "ctaTitle": "仍需帮助？",
     "ctaDescription": "我们的版权团队随时待命，您可以通过邮件或代理渠道与我们联系。",
-    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaContactLink": "mailto:{email}",
     "ctaFooter": "联系版权团队",
     "ctaLibrary": "查看版权百科"
   },
@@ -321,7 +321,7 @@
       },
       {
         "title": "联系我们",
-        "body": "如有疑问，请发送邮件至 privacy@skytime.life。"
+        "body": "如有疑问，请发送邮件至 {email}。"
       }
     ]
   },
@@ -367,7 +367,7 @@
       },
       {
         "title": "联系方式",
-        "body": "如需咨询，请发送邮件至 contact@skytime.life。"
+        "body": "如需咨询，请发送邮件至 {email}。"
       }
     ]
   },

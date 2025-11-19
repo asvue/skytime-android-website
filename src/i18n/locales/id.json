@@ -67,9 +67,9 @@
     ],
     "contactTitle": "Hubungi kami",
     "contactBody": "Ingin bermitra atau punya pertanyaan? Kirim pesan kapan saja.",
-    "contactEmail": "Email: contact@skytime.life",
-    "contactMcn": "MCN: mcn@skytime.life",
-    "contactBiz": "Bisnis: bd@skytime.life",
+    "contactEmail": "Email: {email}",
+    "contactMcn": "MCN: {email}",
+    "contactBiz": "Bisnis: {email}",
     "contactAddress": "Alamat: Shenzhen Jiatuning Building Materials Co., Ltd."
   },
   "creator": {
@@ -161,7 +161,7 @@
     ],
     "ctaTitle": "Butuh bantuan tambahan?",
     "ctaDescription": "Tim hak cipta kami siap membantu melalui email atau jalur agensi Anda.",
-    "ctaContactLink": "mailto:copyright@skytime.life",
+    "ctaContactLink": "mailto:{email}",
     "ctaFooter": "Hubungi tim hak cipta",
     "ctaLibrary": "Lihat pustaka hak cipta"
   },
@@ -337,7 +337,7 @@
       },
       {
         "title": "Kontak",
-        "body": "Pertanyaan? Email ke privacy@skytime.life."
+        "body": "Pertanyaan? Email ke {email}."
       }
     ]
   },
@@ -383,7 +383,7 @@
       },
       {
         "title": "Kontak",
-        "body": "Email contact@skytime.life untuk pertanyaan seputar perjanjian."
+        "body": "Email {email} untuk pertanyaan seputar perjanjian."
       }
     ]
   },

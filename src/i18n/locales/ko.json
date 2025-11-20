@@ -371,6 +371,35 @@
       }
     ]
   },
+  "accountDeletion": {
+    "eyebrow": "계정 및 개인정보",
+    "title": "SkyBox 계정 삭제 요청",
+    "intro": "이 페이지를 통해 SkyBox 계정 데이터를 삭제해 달라는 검증된 요청을 보낼 수 있습니다. 저희는 글로벌 개인정보 보호 법규를 준수하며 신청자가 실제 계정 소유자인지 확인해야 합니다.",
+    "stepsTitle": "삭제 요청 방법",
+    "steps": [
+      "SkyBox에 등록된 이메일 계정으로 로그인하고 메일을 받을 수 있게 유지하세요.",
+      "제목을 “SkyBox Account Deletion”으로 설정한 이메일을 privacy@skytime.life 로 보내세요.",
+      "아래에 기재된 확인 정보를 본문에 포함한 뒤, 저희 확인 메일을 기다려 주세요."
+    ],
+    "requiredTitle": "필요한 확인 정보",
+    "requiredList": [
+      "등록된 이메일 주소와 거주 국가/지역",
+      "앱에 표시되는 사용자명 또는 닉네임(있는 경우)",
+      "삭제 사유(선택 사항이지만 개선에 도움이 됩니다)",
+      "삭제가 영구적이며 되돌릴 수 없음을 이해한다는 문구"
+    ],
+    "timelineTitle": "처리 일정",
+    "timelineBody": "모든 요청은 영업일 기준 3일 이내에 접수 회신을 드리며, 법적 요구가 없는 한 15일 이내에 삭제를 완료합니다.",
+    "dataTitle": "삭제 완료 후",
+    "dataList": [
+      "계정 접근은 영구적으로 차단되며 복원할 수 없습니다.",
+      "시청 기록, 좋아요, 저장 목록 등 개인화 데이터가 시스템에서 삭제됩니다.",
+      "사기 방지 또는 법적 의무를 위해 필요한 최소한의 기록은 법이 요구하는 기간 동안 보관될 수 있습니다."
+    ],
+    "contactTitle": "직접 도움이 필요하신가요?",
+    "contactDesc": "등록 이메일을 사용할 수 없거나 요청을 철회하고 싶다면 개인정보 보호팀이 수동으로 도와드립니다.",
+    "contactEmail": "이메일: {email}"
+  },
   "footer": {
     "brandLine": "SkyBox - Quick, Reel, Short Drama",
     "aboutTitle": "회사 소개",
@@ -378,6 +407,7 @@
     "legalTitle": "법적 고지",
     "userAgreement": "이용약관",
     "privacyPolicy": "개인정보 처리방침",
+    "accountDeletion": "계정 삭제",
     "creatorTitle": "크리에이터",
     "creatorLogin": "크리에이터 로그인",
     "copyright": "Copyright © 2025 SkyBox. All rights reserved."

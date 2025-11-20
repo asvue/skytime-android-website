@@ -16,6 +16,7 @@
             <h4>{{ t('footer.legalTitle') }}</h4>
             <router-link :to="{ name: 'UserAgreement' }" @click="scrollToTop">{{ t('footer.userAgreement') }}</router-link>
             <router-link :to="{ name: 'Privacy' }" @click="scrollToTop">{{ t('footer.privacyPolicy') }}</router-link>
+            <router-link :to="{ name: 'AccountDeletion' }" @click="scrollToTop">{{ t('footer.accountDeletion') }}</router-link>
             </div>
             <div class="footer-column">
               <h4>{{ t('footer.creatorTitle') }}</h4>

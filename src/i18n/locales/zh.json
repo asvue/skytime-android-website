@@ -371,6 +371,35 @@
       }
     ]
   },
+  "accountDeletion": {
+    "eyebrow": "账号与隐私",
+    "title": "申请删除 SkyBox 账号",
+    "intro": "通过此页面提交经过验证的账号删除请求。我们遵循全球隐私法规，并会确认申请人确实是账号所有者。",
+    "stepsTitle": "提交删除请求的步骤",
+    "steps": [
+      "登录与 SkyBox 账号绑定的邮箱，保持可接收状态；",
+      "向 privacy@skytime.life 发送主题为“SkyBox Account Deletion”的邮件；",
+      "在邮件正文中写明下方列出的核验信息，等待我们的确认回复。"
+    ],
+    "requiredTitle": "我们需要核验的信息",
+    "requiredList": [
+      "注册邮箱及所在国家 / 地区；",
+      "App 中显示的用户名或昵称（如有）；",
+      "删除原因（可选，便于我们改进）；",
+      "声明你已知晓删除操作不可逆且会移除全部访问权限。"
+    ],
+    "timelineTitle": "处理周期",
+    "timelineBody": "我们会在 3 个工作日内确认收到请求，并在 15 个工作日内完成删除（如法律要求会相应调整）。",
+    "dataTitle": "删除完成后将会",
+    "dataList": [
+      "账号访问被永久关闭，无法恢复；",
+      "观看历史、偏好与收藏的数据被清除；",
+      "依法需保留的反欺诈或合规记录会在最短法定周期内保存。"
+    ],
+    "contactTitle": "需要人工协助？",
+    "contactDesc": "若无法使用注册邮箱或需撤回申请，请直接联系隐私团队，我们会人工核实并提供帮助。",
+    "contactEmail": "邮箱：{email}"
+  },
   "footer": {
     "brandLine": "SkyBox - Quick, Reel, Short Drama",
     "aboutTitle": "关于我们",
@@ -378,6 +407,7 @@
     "legalTitle": "法律信息",
     "userAgreement": "用户协议",
     "privacyPolicy": "隐私政策",
+    "accountDeletion": "删除账号",
     "creatorTitle": "创作者",
     "creatorLogin": "创作者登录",
     "copyright": "版权所有 © 2025 SkyBox. 保留所有权利。"

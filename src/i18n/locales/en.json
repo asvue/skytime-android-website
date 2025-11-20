@@ -383,6 +383,35 @@
       }
     ]
   },
+  "accountDeletion": {
+    "eyebrow": "Account & privacy",
+    "title": "Request SkyBox Account Deletion",
+    "intro": "Use this page to submit a verified request to remove your SkyBox account data. We comply with global privacy laws and must confirm the requester is the legitimate account owner.",
+    "stepsTitle": "How to send a deletion request",
+    "steps": [
+      "Sign in to the email address linked to your SkyBox account.",
+      "Send an email with the subject “SkyBox Account Deletion” to privacy@skytime.life.",
+      "Include the verification details listed below and wait for our confirmation."
+    ],
+    "requiredTitle": "Information needed for verification",
+    "requiredList": [
+      "Registered email address plus your country or region",
+      "Username or display name shown in the SkyBox app (if available)",
+      "Reason for deletion (optional but helps us improve)",
+      "Statement confirming you understand deletion is permanent"
+    ],
+    "timelineTitle": "Processing & timeline",
+    "timelineBody": "We acknowledge every request within 3 business days and finish the deletion within 15 business days unless regulations require a different schedule.",
+    "dataTitle": "What happens after deletion",
+    "dataList": [
+      "Account access is permanently removed and cannot be restored",
+      "Viewing history, likes, and saved items are erased from our systems",
+      "We may retain minimal records needed for fraud prevention or legal compliance"
+    ],
+    "contactTitle": "Need direct assistance?",
+    "contactDesc": "If you cannot access your registered email or need to withdraw a request, contact our privacy team for manual support.",
+    "contactEmail": "Email: {email}"
+  },
   "footer": {
     "brandLine": "SkyBox - Quick, Reel, Short Drama",
     "aboutTitle": "About us",
@@ -390,6 +419,7 @@
     "legalTitle": "Legal",
     "userAgreement": "User Agreement",
     "privacyPolicy": "Privacy Policy",
+    "accountDeletion": "Delete account",
     "creatorTitle": "Creators",
     "creatorLogin": "Creator Login",
     "copyright": "Copyright © 2025 SkyBox. All rights reserved."

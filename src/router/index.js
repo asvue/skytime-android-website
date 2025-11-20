@@ -7,6 +7,7 @@ import UserAgreement from '../views/UserAgreement.vue'
 import CreatorLogin from '../views/CreatorLogin.vue'
 import Privacy from '../views/Privacy.vue'
 import About from '../views/About.vue'
+import AccountDeletion from '../views/AccountDeletion.vue'
 
 const routes = [
   {
@@ -48,6 +49,11 @@ const routes = [
     path: '/agreement',
     name: 'UserAgreement',
     component: UserAgreement
+  },
+  {
+    path: '/account/delete',
+    name: 'AccountDeletion',
+    component: AccountDeletion
   }
 ]
 

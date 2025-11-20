@@ -383,6 +383,35 @@
       }
     ]
   },
+  "accountDeletion": {
+    "eyebrow": "アカウントとプライバシー",
+    "title": "SkyBox アカウント削除の申請",
+    "intro": "このページからアカウント削除のリクエストを送信できます。SkyBox は各国のプライバシー法を順守し、申請者が正当なアカウント所有者であることを確認します。",
+    "stepsTitle": "削除申請の手順",
+    "steps": [
+      "SkyBox に登録しているメールアドレスでサインインし、受信可能な状態にします。",
+      "件名「SkyBox Account Deletion」のメールを privacy@skytime.life 宛てに送信します。",
+      "本文に以下の確認情報を記載し、当社からの確認メールをお待ちください。"
+    ],
+    "requiredTitle": "必要な確認情報",
+    "requiredList": [
+      "登録メールアドレスと居住している国/地域",
+      "アプリに表示されるユーザー名またはニックネーム（ある場合）",
+      "削除理由（任意ですが改善に役立ちます）",
+      "削除が不可逆であることを理解しているという宣言"
+    ],
+    "timelineTitle": "処理期間",
+    "timelineBody": "すべてのリクエストに 3 営業日以内に受付連絡を行い、最大 15 営業日以内に削除を完了します（法令により変更される場合があります）。",
+    "dataTitle": "削除完了後について",
+    "dataList": [
+      "アカウントへのアクセスは完全に停止され、復元できません。",
+      "視聴履歴、いいね、保存リストなどはシステムから削除されます。",
+      "詐欺防止や法令順守に必要な最小限の記録は、法的に義務付けられた期間のみ保持される場合があります。"
+    ],
+    "contactTitle": "サポートが必要ですか？",
+    "contactDesc": "登録メールにアクセスできない、または申請を取り下げたい場合は、プライバシーチームが個別にサポートします。",
+    "contactEmail": "メール: {email}"
+  },
   "footer": {
     "brandLine": "SkyBox - Quick, Reel, Short Drama",
     "aboutTitle": "私たちについて",
@@ -390,6 +419,7 @@
     "legalTitle": "法的情報",
     "userAgreement": "利用規約",
     "privacyPolicy": "プライバシーポリシー",
+    "accountDeletion": "アカウント削除",
     "creatorTitle": "クリエイター",
     "creatorLogin": "クリエイターログイン",
     "copyright": "Copyright © 2025 SkyBox. All rights reserved."

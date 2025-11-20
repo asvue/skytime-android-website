@@ -387,6 +387,35 @@
       }
     ]
   },
+  "accountDeletion": {
+    "eyebrow": "Akun & privasi",
+    "title": "Permintaan Penghapusan Akun SkyBox",
+    "intro": "Gunakan halaman ini untuk mengirim permintaan terverifikasi agar data akun SkyBox Anda dihapus. Kami mengikuti regulasi privasi global dan harus memastikan pemohon adalah pemilik akun yang sah.",
+    "stepsTitle": "Langkah mengirim permintaan penghapusan",
+    "steps": [
+      "Masuk ke email yang terdaftar di SkyBox dan pastikan dapat menerima pesan.",
+      "Kirim email dengan subjek “SkyBox Account Deletion” ke privacy@skytime.life.",
+      "Cantumkan detail verifikasi di bawah ini lalu tunggu konfirmasi dari kami."
+    ],
+    "requiredTitle": "Informasi verifikasi yang diperlukan",
+    "requiredList": [
+      "Alamat email terdaftar beserta negara/wilayah Anda",
+      "Nama pengguna atau nama tampilan dalam aplikasi (jika ada)",
+      "Alasan penghapusan (opsional namun membantu kami)",
+      "Pernyataan bahwa Anda memahami penghapusan bersifat permanen"
+    ],
+    "timelineTitle": "Proses & waktu",
+    "timelineBody": "Kami menanggapi setiap permintaan dalam 3 hari kerja dan menyelesaikan penghapusan dalam 15 hari kerja kecuali ada ketentuan hukum lain.",
+    "dataTitle": "Setelah penghapusan selesai",
+    "dataList": [
+      "Akses akun dihapus permanen dan tidak dapat dipulihkan",
+      "Riwayat tontonan, favorit, dan daftar tersimpan dihapus dari sistem",
+      "Catatan minimal untuk pencegahan penipuan atau kewajiban hukum dapat disimpan selama periode wajib"
+    ],
+    "contactTitle": "Butuh bantuan langsung?",
+    "contactDesc": "Jika tidak bisa mengakses email terdaftar atau ingin membatalkan permintaan, hubungi tim privasi kami untuk bantuan manual.",
+    "contactEmail": "Email: {email}"
+  },
   "footer": {
     "brandLine": "SkyBox - Quick, Reel, Short Drama",
     "aboutTitle": "Tentang kami",
@@ -394,6 +423,7 @@
     "legalTitle": "Legal",
     "userAgreement": "Perjanjian Pengguna",
     "privacyPolicy": "Kebijakan Privasi",
+    "accountDeletion": "Hapus akun",
     "creatorTitle": "Kreator",
     "creatorLogin": "Login Kreator",
     "copyright": "Hak cipta © 2025 SkyBox. Seluruh hak dilindungi."

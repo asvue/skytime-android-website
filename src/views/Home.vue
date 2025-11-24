@@ -5,7 +5,20 @@
       <div class="content hero-content">
         <h1>{{ t('home.heroTitle') }}</h1>
         <p>{{ t('home.heroDescription') }}</p>
-        <button id="get-start-link" type="button">{{ t('home.heroButton') }}</button>
+        <a 
+          id="get-start-link" 
+          href="https://play.google.com/store/apps/details?id=com.elysian.orbit" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          class="get-started-button"
+        >
+          <svg class="google-play-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 3L3 15L11 9L3 3Z" fill="currentColor"/>
+            <path d="M3 15L3 21L11 17L3 15Z" fill="currentColor" opacity="0.8"/>
+            <path d="M11 9L3 15L11 17L19 11L11 9Z" fill="currentColor" opacity="0.6"/>
+          </svg>
+          {{ t('home.heroButton') }}
+        </a>
         <div class="happy-users">
           <div class="avatars">
             <img v-for="avatar in heroAvatars" :key="avatar" :src="avatar" alt="Avatar" />
@@ -199,7 +212,8 @@ const testimonials = computed(() => [
   line-height: 30px;
 }
 
-.section1 button {
+.section1 button,
+.section1 .get-started-button {
   width: 210px;
   height: 60px;
   background-color: #e80e1d;
@@ -209,10 +223,22 @@ const testimonials = computed(() => [
   font-size: 24px;
   font-weight: 500;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-decoration: none;
 }
 
-.section1 button:hover {
+.section1 button:hover,
+.section1 .get-started-button:hover {
   opacity: 0.9;
+}
+
+.section1 .google-play-icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
 
 .section1 .happy-users {
@@ -499,10 +525,16 @@ const testimonials = computed(() => [
     padding: 0 24px;
   }
 
-  .section1 button {
+  .section1 button,
+  .section1 .get-started-button {
     width: 180px;
     height: 52px;
     font-size: 20px;
+  }
+
+  .section1 .google-play-icon {
+    width: 20px;
+    height: 20px;
   }
 
   .section3 .features {

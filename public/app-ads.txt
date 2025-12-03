@@ -1,3 +1,46 @@
+MANAGERDOMAIN=tradplusad.com
+tradplusad.com,8f4830ce69dd74bc,DIRECT
+rubiconproject.com, 27987, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+appnexus.com, 6849, RESELLER
+pubnative.net, 1007449, RESELLER, d641df8625486a7b
+blueseasx.com, 203821, RESELLER, 7998eac5087f6110
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
+openx.com, 561593493, RESELLER, 6a698e2ec38604c6
+trustedstack, TSTKQ5827, RESELLER
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
+yieldmo.com, 3377199372461613093, RESELLER
+brightmountainmedia.com,26861009, RESELLER
+sharethrough.com, 1leEveR6, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 667989109, RESELLER
+lijit.com, 551431, RESELLER, fafdf38b16bf6b2b
+display.io, 223179, RESELLER
+peak226.com, 12900, RESELLER
+dauup.com, 34109, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf5001, RESELLER
+adingenious.com, 75075, RESELLER
+eyeconicspot.com, 4843, RESELLER , 2cec374be7db7217
+supply.colossusssp.com, 881, RESELLER
+xandr.com, 10490, RESELLER
+Media.net, 8CU281R16, RESELLER
+pubmatic.com,166464, RESELLER , 5d62403b186f2ace
+lunamedia.io, b83f9a8c1d304f7491a9b7f658b9e83e, RESELLER, 524ecb396915caaf
+themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100322, RESELLER, 03113cd04947736d
+thebrave.io, 1234800, RESELLER, c25b2154543746ac
+consumable.com, 2001647, RESELLER, aefcd3d2f45b5070
+bidmachine.io,1260,RESELLER
+visiblemeasures.com,1018,RESELLER
+pubnative.net,1003601,RESELLER,d641df8625486a7b
+thunder-monetize.com, 2158729563, RESELLER
+improvedigital.com, 2657, RESELLER
+zetaglobal.net, 512, RESELLER
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+zetaglobal.net, 626, RESELLER
 vungle.com,6870caa87995f8001109f328,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
